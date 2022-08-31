@@ -1,1 +1,1 @@
-worker:python gui.py
+worker: python gui.py
